@@ -1,0 +1,1 @@
+This is a hello-world like project in Git.
